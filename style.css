@@ -360,10 +360,15 @@ border: none;
     display: flex;
     grid-gap: 14px;
 }
+.price_box_left:hover {
+        box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
+.price_box_right:hover {
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+}
 
 .box-left {
-  
-    width: 50%;
+   width: 50%;
 }
 .box-right {
     width: 50%;
