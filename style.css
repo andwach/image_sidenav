@@ -109,9 +109,14 @@ padding-top: 190px;
 /* .box {
 width: 218vw;
 } */
+/*
 .img_left {
 padding-right: 8px;
 }
+*/
+.img_right {
+    padding-left: 8px;
+    }
 .wedding {
 padding-bottom: 8px;
 }
