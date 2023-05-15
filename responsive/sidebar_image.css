@@ -46,6 +46,7 @@
   @media(min-width: 600px) {
     .box {
         width: 218vw;
+       padding: 0 4px;
      }
      .img_container {
         display: flex;
