@@ -27,8 +27,7 @@ background-image: url("img/close-up.jpg");
 background-size: cover;
 background-position: 10% 75%;
 overflow-x: hidden;
-/* padding-top: 20px; */
-
+opacity: 0.9;
 }
 
 .main {
