@@ -1,1 +1,102 @@
+ @media(min-width: 992px) {
+        .img-box {
+            display: none;
+        }
+        .i_sidebar {
+            display: none;
+        }
+        .sub-slogan {
+            display: none;
+        }
+    }
 
+ @media(min-width: 992px) {
+        .main {
+            margin-left: 40%;
+            /* padding: 0 85px; */
+           
+        }
+    }
+
+  
+ 
+    @media(max-width: 992px) {
+        .sidenav {
+            display: none;
+        }
+       
+    }
+    @media(max-width: 992px) {
+        .i_sidebar_big {
+            display: none;
+        }
+        .sub-slogan_big {
+            display: none;
+        }
+        /* .main {
+           
+            padding: 0 85px;
+           
+        } */
+    }
+        
+       
+
+
+     @media(max-width: 992px) {
+        .button {
+          margin-top: 92px;
+          
+         }
+      }
+      
+  @media(min-width: 600px) {
+    .box {
+        width: 218vw;
+       padding: 0 4px;
+     }
+     .img_container {
+        display: flex;
+        margin-top: 160px;
+     }   
+   
+  }
+    
+
+   @media(max-width: 599px) {
+    .box {
+        margin-top: 152px;
+    }
+     .img_right {
+        margin-top: -1px
+    }
+    .main {
+        /* margin-left: 40%;  */
+        /* padding: 0px 40px;  */
+    
+        /* text-align: center; */
+        padding: 0 40px;
+        
+      } 
+      .img-box .img_small {
+        width: 86%;
+    }
+   } 
+
+@media(max-width: 599px) {
+    .skills-sub-box {
+        flex-direction: column;
+     }
+     
+}
+    
+
+        
+            
+
+     
+     
+
+    
+    
+   
